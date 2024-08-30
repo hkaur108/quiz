@@ -1,0 +1,28 @@
+body{
+    background-color: #31363F;
+    color: #fff;
+}
+
+.displayInline{
+    display:inline;
+
+}
+/* 
+
+.transLeft{
+    position: relative;
+    animation-name: move;
+    animation-duration: 4s;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease;
+}
+
+@keyframes move {
+    0%{left:800px; top:0px};
+    25%{left:600px; top:0px};
+    50%{left:400px; top:0px};
+    75%{left:200px; top:0px};
+    100%{left:0px;top:0px};
+    
+} */
